@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-07-21 00:31:19 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-07-21 00:25:27 +0000"
@@ -242,6 +248,12 @@
   "vinery:mangrove_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-07-21 00:25:27 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-07-21 00:33:46 +0000"
     },
     "done": true
   },
@@ -280,6 +292,12 @@
       "has_the_recipe": "2025-07-21 00:25:27 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-07-21 00:33:53 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -392,6 +410,12 @@
   "vinery:flower_box": {
     "criteria": {
       "has_the_recipe": "2025-07-21 00:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-21 00:31:19 +0000"
     },
     "done": true
   },
@@ -569,6 +593,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-07-21 00:27:00 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2025-07-21 00:25:28 +0000"
@@ -608,6 +638,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-21 00:25:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-07-21 00:33:53 +0000"
     },
     "done": true
   },
@@ -944,6 +980,9 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:red_oak_forest": "2025-07-21 00:33:36 +0000",
+      "byg:firecracker_shrubland": "2025-07-21 00:33:20 +0000",
+      "byg:araucaria_savanna": "2025-07-21 00:30:55 +0000",
       "byg:baobab_savanna": "2025-07-21 00:25:28 +0000"
     },
     "done": false
@@ -971,6 +1010,16 @@
       "has_the_recipe": "2025-07-21 00:25:27 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2025-07-21 00:31:01 +0000",
+      "minecraft:river": "2025-07-21 00:33:09 +0000",
+      "minecraft:forest": "2025-07-21 00:33:32 +0000",
+      "minecraft:savanna": "2025-07-21 00:31:32 +0000",
+      "minecraft:plains": "2025-07-21 00:33:26 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -1084,9 +1133,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-07-21 00:31:23 +0000",
       "log_spam_fixer": "2025-07-21 00:25:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
@@ -1181,6 +1231,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-07-21 00:25:27 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-07-21 00:31:19 +0000"
     },
     "done": true
   },
