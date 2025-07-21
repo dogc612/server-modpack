@@ -988,52 +988,6 @@
 			x: -12.0d
 			y: -22.5d
 		}
-		{
-			description: [
-				"Centuries after the death of &6Cisco &fwe would see the rise of &2Alexander &fhis descendant, &2the verdant ascendant &fand heir to unified bloodlines of &elight &fand &4fell."
-				""
-				"He possesed and unmathced command over time and gravity and would go on to unify the known kingdoms  into a singular empire later being crowned &athe sovereign ascendant."
-			]
-			icon: {
-				Count: 1b
-				id: "cisco_mod:sovereign_ascendant_helmet"
-				tag: {
-					Damage: 0
-					affix_data: {
-						affixes: {
-							"apotheosis:socket": 0.0f
-						}
-					}
-				}
-			}
-			id: "73F72E1154910A0E"
-			rewards: [{
-				count: 6
-				id: "2660ABB50ED9ED93"
-				item: "cisco_mod:champion_coin"
-				type: "item"
-			}]
-			size: 3.0d
-			subtitle: "Ascendant Verdant"
-			tasks: [{
-				id: "50DD04D67905A075"
-				item: {
-					Count: 1b
-					id: "cisco_mod:sovereign_ascendant_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				type: "item"
-			}]
-			x: -7.5d
-			y: -16.5d
-		}
 	]
 	title: "{\"text\":\"Divine Equipment\",\"color\":\"#DEA812\"}"
 }

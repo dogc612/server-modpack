@@ -369,17 +369,16 @@
 			y: -5.0d
 		}
 		{
-			can_repeat: true
 			description: [
 				"&6The crown &fwas originally designed by &ethe Lawbringers &fas a tool to punish defiant &6gods. &fIt would would vicously rend all pleasant memories from the victim's psyche then incinerate them in a streak of purple flame. As you could imagine prolonged exposure to the device's effect would break even the most resolute of minds."
 				""
 				"However, some masochistic gods would somehow derive a twisted pleasure from it's use, later replicating the device for thier own personal pleasure."
 			]
-			icon: "cisco_mod:crown_of_debilitating_desire"
+			icon: "cisco_mod:crown_of_debilitation"
 			id: "7E2618F2B06D7339"
 			rewards: [{
 				id: "6A19F8152B2EBB8D"
-				item: "cisco_mod:crown_of_debilitating_desire"
+				item: "cisco_mod:crown_of_debilitation"
 				type: "item"
 			}]
 			subtitle: "Descent into Madness"
